@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{204:function(t,e,n){"use strict";n.r(e);var l={},s=n(0),i=Object(s.a)(l,(function(){var t=this.$createElement;return(this._self._c||t)("p",[this._v("Hello from the list")])}),[],!1,null,null,null);e.default=i.exports}}]);
