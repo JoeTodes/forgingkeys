@@ -5,6 +5,6 @@ module.exports = {
         anchor: {
             permalink: false
         }
-    }
+    },
 
 }

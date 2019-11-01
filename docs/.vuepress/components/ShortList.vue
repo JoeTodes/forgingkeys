@@ -1,14 +1,19 @@
 <template>
   <div>
     <div v-for="article in articles">
-      <a v-bind:href="article.path">
-        <h2>{{article.title}}</h2>
-      </a>
-      <div class="date">{{article.frontmatter.date.substring(0,10)}}</div>
-      <p>
-        {{article.frontmatter.excerpt}}
-        <a v-bind:href="article.path">read more</a>
-      </p>
+      <div class="excerpt">
+        <a v-bind:href="article.path">
+          <h2>{{article.title}}</h2>
+        </a>
+        <div class="date">{{article.frontmatter.date.substring(0,10)}}</div>
+        <p>
+          {{article.frontmatter.excerpt}}
+          <br />
+          <a v-bind:href="article.path">read more</a>
+          <br />
+          <br />
+        </p>
+      </div>
     </div>
   </div>
 </template>
@@ -16,9 +21,15 @@
 export default {
   computed: {
     articles() {
-      return this.$site.pages.filter(p => {
-        return p.path.indexOf("/articles/") >= 0;
-      });
+      return this.$site.pages
+        .filter(p => {
+          return p.path.indexOf("/articles/") >= 0;
+        })
+        .sort((a, b) => {
+          a = new Date(a.frontmatter.date);
+          b = new Date(b.frontmatter.date);
+          return a > b ? -1 : a < b ? 1 : 0;
+        });
     }
   }
 };
@@ -29,5 +40,8 @@ h2 {
 }
 .date {
   color: gray;
+}
+a {
+  margin-bottom: 20;
 }
 </style>

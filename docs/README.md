@@ -1,4 +1,7 @@
 # Forging Keys
+## A Keyforge Blog
+<br/>
+<br/>
+<br/>
 
 <ShortList />
-<Card name="anger"/> <Card name="gateway to dis"/>

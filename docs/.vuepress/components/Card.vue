@@ -12,10 +12,10 @@
   </span>
 </template>
 <script>
-import data from "./assets/cota.json";
+import data from "./assets/card_data.json";
 //TODO add AOA and WC
 export default {
-  props: ["name"],
+  props: ["name", "id"],
   data: function() {
     return {
       cotaData: data
@@ -24,11 +24,19 @@ export default {
   computed: {
     img: function() {
       let url = "";
-      this.cotaData.forEach(card => {
-        if (card.card_title.toLowerCase() == this.name.toLowerCase()) {
-          url = card.front_image;
-        }
-      });
+      if (this.name) {
+        this.cotaData.forEach(card => {
+          if (card.card_title.toLowerCase() == this.name.toLowerCase()) {
+            url = card.front_image;
+          }
+        });
+      } else if (this.id) {
+        this.cotaData.forEach(card => {
+          if (card.id == this.id) {
+            url = card.front_image;
+          }
+        });
+      }
       return url;
     }
   }
