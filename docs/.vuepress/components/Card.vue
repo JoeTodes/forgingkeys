@@ -4,7 +4,7 @@
       <template v-slot:activator="{on}">
         <span v-on="on" class="cardTitle">{{name}}</span>
       </template>
-      <v-card class="mx-auto" max-width="200" outlined>
+      <v-card class="mx-auto" max-width="300" outlined>
         <v-img :src="img"></v-img>
         <div></div>
       </v-card>

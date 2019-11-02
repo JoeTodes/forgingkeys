@@ -4,7 +4,7 @@
     <br />
     <v-card raised>
       <v-card-title class="title">
-        {{properName}}
+        {{properName.toUpperCase()}}
         <v-spacer></v-spacer>
         <v-img v-if="ready" :src="houses[0].image" max-width="40"></v-img>
         <v-img v-if="ready" :src="houses[1].image" max-width="40"></v-img>
@@ -13,7 +13,7 @@
       <v-card-text style="padding:0rem">
         <v-container style="padding:0rem">
           <v-row no-gutters>
-            <v-col v-for="(house,index) in houses" :key="index">
+            <v-col class="col-12 col-sm-4" v-for="(house,index) in houses" :key="index">
               <v-card>
                 <v-card-title class="house">{{house.name}}</v-card-title>
                 <v-card-text>

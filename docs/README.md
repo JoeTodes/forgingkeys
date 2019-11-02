@@ -1,5 +1,5 @@
-# Forging Keys
-## A Keyforge Blog
+# FORGING KEYS
+### A KEYFORGE BLOG
 <br/>
 <br/>
 <br/>

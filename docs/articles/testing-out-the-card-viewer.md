@@ -32,3 +32,6 @@ But what about multiple cards in a row?? Gotcha covered with XCards:
 <XCards :names="['anger','routine job','miasma']" caption="wow those are some cards for sure"/>
 ```
 <XCards :names="['anger','routine job','miasma']" caption="wow those are some cards for sure"/>
+
+<Comments/>
+
