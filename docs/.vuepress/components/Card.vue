@@ -30,6 +30,15 @@ export default {
             url = card.front_image;
           }
         });
+        if (!url) {
+          this.cotaData.forEach(card => {
+            if (
+              card.card_title.toLowerCase().includes(this.name.toLowerCase())
+            ) {
+              url = card.front_image;
+            }
+          });
+        }
       } else if (this.id) {
         this.cotaData.forEach(card => {
           if (card.id == this.id) {

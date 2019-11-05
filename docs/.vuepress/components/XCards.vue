@@ -36,6 +36,13 @@ export default {
             urls[name.toLowerCase()] = card.front_image;
           }
         });
+        if (!urls[name.toLowerCase()]) {
+          this.cotaData.forEach(card => {
+            if (card.card_title.toLowerCase().includes(name.toLowerCase())) {
+              urls[name.toLowerCase()] = card.front_image;
+            }
+          });
+        }
       });
       return urls;
     }

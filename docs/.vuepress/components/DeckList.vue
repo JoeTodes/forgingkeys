@@ -56,7 +56,9 @@ export default {
     };
   },
   created: function() {
-    const parsedName = this.name.toLowerCase().replace(/ /g, "%20");
+    var parsedName = this.name.toLowerCase().replace(/ /g, "%20");
+    parsedName = parsedName.replace(/"/g, "%22");
+    parsedName = parsedName.replace(/,/g, "%2c");
     this.queryText = "https://www.keyforgegame.com/api/decks/?search=";
     this.queryText += parsedName;
     this.queryText += "&links=cards";

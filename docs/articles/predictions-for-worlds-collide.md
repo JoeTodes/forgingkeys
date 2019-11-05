@@ -45,3 +45,5 @@ There are several new additions of key taxing effects with Worlds Collide. <Card
 ## There’s Plenty More Cool Combos and Interactions to Figure Out
 
 I’ve only seen a few decks play so far and have been super impressed with what I saw. Again, Keyforge had found a way to both intrigue and excite. There are so many neat interactions in Worlds Collide and I can’t wait to explore a vast quantity of them. I believe players will have to deviate from their beloved Shadows companions and find a new way to tackle our Saurian and Grand Star Alliance counterparts other than trusty aember control. I know where I’m starting, Brobnar! And, hey, if you can’t beat ‘em, you can always join ‘em! The adventure and discovery continues November 8th!
+
+<Comments/>

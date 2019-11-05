@@ -1,9 +1,10 @@
 ---
 title: Testing Out The Card Viewer
-date: 2019-10-05
-excerpt: Check this out, I can write <Card name="schooler"/> and I get a hover image!...
+date: 2018-10-10
+excerpt: A rundown of the custom card and decklist components made for this blog...
 ---
 # Testing Out The Card Viewer
+
 Ok let's start out with a decklist:
 ```html
 <DeckList name="the captain of terahill"/>
@@ -11,11 +12,14 @@ Ok let's start out with a decklist:
 
 <DeckList name="the captain of terahill"/>
 
-Which we can do inline too: <DeckListHover name="the captain of terahill"/> but it's a little sloppier right now
+Which we can do inline too: <DeckListHover name="the captain of terahill"/> but it's a little sloppier right now:
+```html
+<DeckListHover name="the captain of terahill"/>
+````
 <br/>
 <br/>
 
-Now for cards, if I just wanta hoverable card name:
+Now for cards, if I just want a hoverable card name:
 ```html
 <Card name="shooler"/>
 ```
@@ -32,6 +36,8 @@ But what about multiple cards in a row?? Gotcha covered with XCards:
 <XCards :names="['anger','routine job','miasma']" caption="wow those are some cards for sure"/>
 ```
 <XCards :names="['anger','routine job','miasma']" caption="wow those are some cards for sure"/>
+
+If you're using VueJS to power you blog, drop us a line and I'll hook you up with the components!
 
 <Comments/>
 

@@ -7,6 +7,7 @@ module.exports = {
             permalink: false
         }
     },
+
     plugins: [
         [
             "vuepress-plugin-disqus-comment",
