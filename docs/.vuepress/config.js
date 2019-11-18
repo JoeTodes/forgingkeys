@@ -10,7 +10,7 @@ module.exports = {
     themeConfig: {
         displayAllHeaders: false,
         sidebar: [
-            '/',
+
             '/articles/predictions-for-worlds-collide',
             '/articles/tips-and-tricks-for-competitive-gameplay',
             '/articles/keyforge-for-magic-players',
