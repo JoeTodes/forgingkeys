@@ -32,6 +32,7 @@
         </v-container>
       </v-card-text>
     </v-card>
+
     <br />
   </div>
 </template>
@@ -59,7 +60,7 @@ export default {
     var parsedName = this.name.toLowerCase().replace(/ /g, "%20");
     parsedName = parsedName.replace(/"/g, "%22");
     parsedName = parsedName.replace(/,/g, "%2c");
-    this.queryText = "https://www.keyforgegame.com/api/decks/?search=";
+    this.queryText = "/api/decks/?search=";
     this.queryText += parsedName;
     this.queryText += "&links=cards";
 
