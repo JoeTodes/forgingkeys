@@ -23,7 +23,7 @@ module.exports = {
     themeConfig: {
         displayAllHeaders: false,
         sidebar: [
-            '/articles/worlds-collide-initail-impressions',
+            '/articles/worlds-collide-initial-impressions',
             '/articles/predictions-for-worlds-collide',
             '/articles/tips-and-tricks-for-competitive-gameplay',
             '/articles/keyforge-for-magic-players',
