@@ -1,6 +1,11 @@
 module.exports = {
-    head: [['script', { async: 'true', src: 'https://www.googletagmanager.com/gtag/js?id=UA-143605661-2' }],
-    ['script', {}, "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-143605661-2'); "]],
+    head: [
+        ['script', {
+            async: 'true',
+            src: 'https://www.googletagmanager.com/gtag/js?id=UA-143605661-2'
+        }],
+        ['script', {}, "window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-143605661-2'); "]
+    ],
     title: 'FORGING KEYS',
     description: 'A Keyforge Blog',
 
@@ -18,7 +23,7 @@ module.exports = {
     themeConfig: {
         displayAllHeaders: false,
         sidebar: [
-
+            '/articles/worlds-collide-initail-impressions',
             '/articles/predictions-for-worlds-collide',
             '/articles/tips-and-tricks-for-competitive-gameplay',
             '/articles/keyforge-for-magic-players',
