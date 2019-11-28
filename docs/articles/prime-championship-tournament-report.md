@@ -31,9 +31,7 @@ I arrived at the store early to get some [practice games](https://timeshapers.co
 <XCards :names="['chain gang','subtle chain']" caption="Not so subtle when there's three"/>
 
 
-## Game 1 - vs Kieran
-
-<DeckList name='wastrel of the thespian'/>
+## Game 1 - vs Kieran - <DeckListHover name='wastrel of the thespian'/>
 
 The week before the primes I played in a sealed and knew that Kieran had opened a triple <Card name='Chain Gang'/>, triple <Card name='Subtle Chain'/> deck with good control throughout.  I figured he might be playing the deck on Primes and I was most worried about having to play against it if I faced him. The Chain Gang combos can get out of hand essentially locking your opponent out of any Aember as the player nears the end of their deck and can reliably shuffle and draw the subtle chains. I knew I had to wipe out the Chain Gangs any way possible on first sight of them! 
 
@@ -44,17 +42,15 @@ Those who follow me on Twitter [link to my twitter] will know how much I've been
 <br/>
 [W1 - L0]
 
-## Game 2 - vs Shea - <DeckList name='khan fordatese'/>
+## Game 2 - vs Shea - <DeckListHover name='khan fordatese'/>
 
-Shea and I chat a bunch about Keyforge and sometimes practice together. He is quite familiar with Phisk and knew its strengths and weaknesses. Early on he knew that my Collector Worms must go, which he made quick effort to <Card name='Oublette'/> the first one and <Card name='Collar of Subordination'/> my second. I ended up drawing some of my less flashy cards at the correct times in this match. I played a <Card name='Pandemonium'/> after forging a key to have my battleline capture four or five AEmber and keep Shea off check. I used Collar of Subordination (I had to refrain from Collaring my already Collared wormy boy for the lol play)
+Shea and I chat a bunch about Keyforge and sometimes practice together. He is quite familiar with Phisk and knew its strengths and weaknesses. Early on he knew that my Collector Worms must go, which he made quick effort to <Card name='Oubliette'/> the first one and <Card name='Collar of Subordination'/> my second. I ended up drawing some of my less flashy cards at the correct times in this match. I played a <Card name='Pandemonium'/> after forging a key to have my battleline capture four or five AEmber and keep Shea off check. I used Collar of Subordination (I had to refrain from Collaring my already Collared wormy boy for the lol play)
 on his <Card name='Tocsin'/> which stayed on board the entirety of the game, and got about 5 cards of value out of it. The big armoured Mars battleline successfully raced and brought me enough Aember to win. 
 <br/>
 <br/>
 [W2 - L0]
 
-## Game 3 - vs Lance
-
-<DeckList name='garcia, harvestplaza'/>
+## Game 3 - vs Lance - <DeckListHover name='garcia, harvestplaza'/>
 
 I play Lance at least half a dozen times a week casual and while practicing. Just the night before he was practicing some of his decks vs Phisk so we were familiar with the match. We also both knew that Phisk had the upper hand. His deck has some good tax effects and big dino butts which can cause a problem, and did at one point when he had two <Card name='edai'/> out on board with a few cards in archive. It's tough deciding whether to destroy those and forge a key or use the creature removal on something with a more game changing text box, like <Card name='Questor Jarta'/> or <Card name='Primus Unguis'/>. Luckily I didn't have to make that choice and cast <Card name='Unlocked Gateway'/> instead followed up next turn by a Mars battleline invasion and the quick win. 
 <br/>
@@ -64,9 +60,7 @@ I play Lance at least half a dozen times a week casual and while practicing. Jus
 <BigCard name='edai' caption='Introducing the all new Eddie 4x4'/>
 
 
-## Game 4 - vs Lane
-
-<DeckList name='the averting ratcatcher'/>
+## Game 4 - vs Lane - <DeckListHover name='the averting ratcatcher'/>
 
 I looked at Lane's decklist and knew I might have a problem, but, mathematically, I had made top 8 so my nerves eased up a bit. On the flip side, so had Lane, so I used this game as a learning experience in case we faced one another in the Top 8. I started out the first few turns playing my Mars board. I had four Mars creatures out when Lane played his <Card name='Key Abduction'/> for an Aember pip. But wait.... Yes, that's all Mars creatures that are returned to owner's hand... I beamed up my nice board state back to my hand (tear in eye). Lane finishes his turn playing soft landing <Card name='John Smyth'/> into <Card name='Grabber Jammer'/> and capturing one. Next play, back on the Mars plan, play them out followed, next turn, by another house I think, building a good board and bam, <Card name='Hysteria'/>. Good news is I get my Aember back off his Grabber Jammers. Bad news is he just activated <Card name='Lash of Broken Dreams'/> so I can't forge and I once again don't have any board and can't draw any cards for a few turns. He hit the gas pedal on his mars, capturing more of my Aember with - now - two Grabber Jammers and a John “Smyth”. Meanwhile I'm still trying to dig for answers which never came. Phisk gets a loss.
 <br/>
@@ -74,7 +68,7 @@ I looked at Lane's decklist and knew I might have a problem, but, mathematically
 [W3 - L1]
 <XCards :names="['john smyth','grabber jammer']" caption="As featured in ESPN's tempo top plays of the day"/>
 
-## Game 5 - vs Matt - The Dinosaur that Bows Down to Nerds - Saurian/Dis/Shadows [WC]
+## Game 5 - vs Matt - <DeckListHover name="The Dinosaur that Bows Down to Nerds"/>
 
 <DeckList name='the dinosaur that bows down to nerds'/>
 
@@ -83,30 +77,28 @@ I played against this deck a week earlier at a chainbound so knew it was powerfu
 <br/>
 [W4 - L1]
 
-<XCards :names="['book of ieq','navigator ali']" caption="Two houses a turn, no problem"/>
+<XCards :names="['Book of LeQ','navigator ali']" caption="Two houses a turn, no problem"/>
 
-## Top 8 - vs Justin
+## Top 8 - vs Justin - <DeckListHover name='the barded whip princess of barbshelter'/>
 
-<DeckList name='the barded whip princess of barbshelter'/>
-
-Leading up to the tournament, I was most shakey against Star Alliance. The GSA plays can be unpredictable and wild and contain a lot of value. I knew that any Star Alliance creature must immediately be wiped out to protect from a most imminent loss. This was my most stressful match all day, and maybe because I got a little too confident early on. My early plays once again were setting up a strong Mars battleline. Justin's deck had a lot of upgrades and the potential to draw into many unusable cards in the moment. I think this was happening early as I was building a big board and he seemed stalled. I was controlling anything he put down and generating a lot of Aember fast. I remember seeing the <Card name='Book of Ieq'/> on his decklist card and knowing I should save my <Card name='Destroy them All'/> for when that appeared. I ended up casting it on a turn where I put myself up to 7 Aember (to check for second key) to destroy his one non-threatening artifact and a GSA creature with 3 upgrades on it. I thought I was so smart with the hefty five for one play and about to forge my second key. 
+Leading up to the tournament, I was most shakey against Star Alliance. The GSA plays can be unpredictable and wild and contain a lot of value. I knew that any Star Alliance creature must immediately be wiped out to protect from a most imminent loss. This was my most stressful match all day, and maybe because I got a little too confident early on. My early plays once again were setting up a strong Mars battleline. Justin's deck had a lot of upgrades and the potential to draw into many unusable cards in the moment. I think this was happening early as I was building a big board and he seemed stalled. I was controlling anything he put down and generating a lot of Aember fast. I remember seeing the <Card name='Book of LeQ'/> on his decklist card and knowing I should save my <Card name='Destroy them All'/> for when that appeared. I ended up casting it on a turn where I put myself up to 7 Aember (to check for second key) to destroy his one non-threatening artifact and a GSA creature with 3 upgrades on it. I thought I was so smart with the hefty five for one play and about to forge my second key. 
 <br/>
 <br/>
 Check to Justin... Saurian, he plays <Card name='Senator Shrix'/> followed by <Card name='Tribute'/> to do what Tribute does best, capture a ton of my Aember, keep me off check, and put it on some dinosaur which can utilize that Aember. Third card he plays <Card name='Brutodon Auxiliary'/> and I can no longer get my Aember back by fighting anything with my Collector Worm. While this is going on he also fills his Aember pool to 6 while having 6 Aember on Senator Shrix. This is the unbelievable power of Saurian ladies and gentlemen... I went from having a big board state and about to forge my second key to having only 3 Aember in pool, board state looking weak, and opponent going from no keys to all of a sudden having 2 keys worth of Aember and looking like he will win the game in the next few turns. I felt completely deflated. I was feeling so confident a moment ago and now staring at a hand with no answers to the current 12 Aember threat. Why did I play that Destroy the All!? I had a few options here, one was to race with my current Mars board but I knew the value-town engines in both Saurian and Star Alliance would thwart that plan. I had to dig deeper into my deck to find answers. 
 <br/>
 <br/>
-I played shadows the next few turns and kept him off the second key, after he forged his first with my Aember! A combination of both my <Card name='Miasma'/> and <Card name='Ronnie Wristclocks'/> bought me more turns while keeping us on parity at one key each. He plays the <Card name='Book of Ieq'/> combined with <Card name='Navigator Ali'/> next to his <Card name='Brutodon Auxiliary'/>. great.... I play my next turn going up to 7 Aember. He play GSA, Navigator Ali, Book of Ieq revealing <Card name='The Evil Eye'/> and stating that my keys now cost +3. Excuse me? What? That's not how that works. You just reveal the card on top of your library, not cast or add to hand. We sort out that confusion and he finished his turn in Dis, playing out some creatures, and I forge my second key. 
+I played shadows the next few turns and kept him off the second key, after he forged his first with my Aember! A combination of both my <Card name='Miasma'/> and <Card name='Ronnie Wristclocks'/> bought me more turns while keeping us on parity at one key each. He plays the <Card name='Book of LeQ'/> combined with <Card name='Navigator Ali'/> next to his <Card name='Brutodon Auxiliary'/>. great.... I play my next turn going up to 7 Aember. He play GSA, Navigator Ali, Book of LeQ revealing <Card name='The Evil Eye'/> and stating that my keys now cost +3. Excuse me? What? That's not how that works. You just reveal the card on top of your library, not cast or add to hand. We sort out that confusion and he finished his turn in Dis, playing out some creatures, and I forge my second key. 
 <br/>
 <br/>
-I started picking up steam again but I knew I had another Tribute to deal with to forge my second key PLUS the Evil Eye that was now in his hand. I think I ended up drawing into <Card name='Tyxl Beambuckler'/> to finally move the Brutodon Auxiliary and wipe out his Senator Shrix (now with complimentary 2 Aember for me). The next few turns I focused on a line that would keep Justin in off his second key while putting me closer to Aember bursting up past 9 Aember so that I could forge even with an Evil Eye play. I had to ignore his Navigator Ali, Book of Ieq combo for a few turns even, which gave him a lot of value, but Phisk had the answers, I knew what remained in my deck. I managed to get up to 11 Aember but at the cost of Justin forging his second key with 8 Aember. That turn Justin also dropped two Evil Eyes and got back up to 6 Aember to put him in check for key #3. I still had 11 Aember, and he still had a Tribute.  <Card name='Mindwarper'/> took him off check and my Mars board got me to a safe 15 Aember and the win! Phew!
+I started picking up steam again but I knew I had another Tribute to deal with to forge my second key PLUS the Evil Eye that was now in his hand. I think I ended up drawing into <Card name='Tyxl Beambuckler'/> to finally move the Brutodon Auxiliary and wipe out his Senator Shrix (now with complimentary 2 Aember for me). The next few turns I focused on a line that would keep Justin in off his second key while putting me closer to Aember bursting up past 9 Aember so that I could forge even with an Evil Eye play. I had to ignore his Navigator Ali, Book of LeQ combo for a few turns even, which gave him a lot of value, but Phisk had the answers, I knew what remained in my deck. I managed to get up to 11 Aember but at the cost of Justin forging his second key with 8 Aember. That turn Justin also dropped two Evil Eyes and got back up to 6 Aember to put him in check for key #3. I still had 11 Aember, and he still had a Tribute.  <Card name='Mindwarper'/> took him off check and my Mars board got me to a safe 15 Aember and the win! Phew!
 
 <XCards :names="['screaming cave','lash of broken dreams']" caption="Take these two if your want to play mono-Dis"/>
 
-## Top 4 - Lane - The Averting Ratcatcher - Mars/Dis/Shadows [CotA]
+## Top 4 - Lane - <DeckListHover name="The Averting Ratcatcher"/>
 
 Secretly, I was hoping Lane would be defeated in the quarter finals as he was the only player to beat me during the swiss, not nice I know. I did have the benefit of experience against his deck however, which had to count for something. Unfortunately his deck played a completely different game plan. He was off the Mars plan and completely onto Dis for most of this game. Early on he played a <Card name='Lash of Broken dreams'/> followed soon after by a <Card name='screaming cave'/>. Two copies of <Card name='Shooler'/> and two copies of <Card name='Charette'/> with the Lash of Broken Dreams made it exceptionally difficult to forge a key for any cost. Any time I picked off one of his Dis threats he was able to recycle his discard pile into his deck and out another would come keeping me off a key. If I left them on the board he had a reap engine. It took some maneuvering but I was able to forge my first two keys for 9 Aember. Mars was keeping him off a key, and I was keeping him off his Dis creatures which meant he wasn't making too much Aember. <Card name='Pandemonium'/>, <Card name='Charette'/>, and <Card name='Mind Warper'/> kept him off check a few times. Phisk was making it difficult for him to forge as well. Finally I found my<Card name=' Destroy them All!'/> (as well as my <Card name='Collector Worms'/>) to pick off his Lash of Broken Dreams and start archiving his Shooler and Charrette plan. A few <Card name='Exhumes'/> of <Card name='Ronnie Wristclocks'/> and I had my third key!
 
-## Finals - Shea -  Khan Fordatese Adalbert - Logos/Dis/Shadows [CotA]
+## Finals - Shea - <DeckListHover name="Khan Fordatese Adalbert"/>
 
 <XCards :names="['overlord greking','collar of subordination']" name="All your creatures are belong to me"/>
 
