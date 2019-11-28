@@ -23,6 +23,7 @@ module.exports = {
     themeConfig: {
         displayAllHeaders: false,
         sidebar: [
+            '/articles/prime-championship-tournament-report',
             '/articles/worlds-collide-initial-impressions',
             '/articles/predictions-for-worlds-collide',
             '/articles/tips-and-tricks-for-competitive-gameplay',
