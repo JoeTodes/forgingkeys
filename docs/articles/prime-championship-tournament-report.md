@@ -102,7 +102,7 @@ I played shadows the next few turns and kept him off the second key, after he fo
 <br/>
 I started picking up steam again but I knew I had another Tribute to deal with to forge my second key PLUS the Evil Eye that was now in his hand. I think I ended up drawing into <Card name='Tyxl Beambuckler'/> to finally move the Brutodon Auxiliary and wipe out his Senator Shrix (now with complimentary 2 Aember for me). The next few turns I focused on a line that would keep Justin in off his second key while putting me closer to Aember bursting up past 9 Aember so that I could forge even with an Evil Eye play. I had to ignore his Navigator Ali, Book of Ieq combo for a few turns even, which gave him a lot of value, but Phisk had the answers, I knew what remained in my deck. I managed to get up to 11 Aember but at the cost of Justin forging his second key with 8 Aember. That turn Justin also dropped two Evil Eyes and got back up to 6 Aember to put him in check for key #3. I still had 11 Aember, and he still had a Tribute.  <Card name='Mindwarper'/> took him off check and my Mars board got me to a safe 15 Aember and the win! Phew!
 
-<XCards names="['screaming cave','lash of broken dreams']" caption="Take these two if your want to play mono-Dis"/>
+<XCards :names="['screaming cave','lash of broken dreams']" caption="Take these two if your want to play mono-Dis"/>
 
 ## Top 4 - Lane - The Averting Ratcatcher - Mars/Dis/Shadows [CotA]
 
@@ -110,7 +110,7 @@ Secretly, I was hoping Lane would be defeated in the quarter finals as he was th
 
 ## Finals - Shea -  Khan Fordatese Adalbert - Logos/Dis/Shadows [CotA]
 
-<XCards names="['overlord greking','collar of subordination']" name="All your creatures are belong to me"/>
+<XCards :names="['overlord greking','collar of subordination']" name="All your creatures are belong to me"/>
 
 Repeat of Round 2 today and Shea mentions to me that he supposes I probably won before the match even started. I've made the mistake many times of going into a match thinking I've won it, over confident, only to get completely blown out because I've let my guard down; I'm treating this match like any other and staying focused. 
 <br/>
