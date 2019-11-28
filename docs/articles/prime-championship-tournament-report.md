@@ -50,15 +50,12 @@ on his <Card name='Tocsin'/> which stayed on board the entirety of the game, and
 <br/>
 [W2 - L0]
 
-## Game 3 - vs Lance - <DeckListHover name='Garcia, Harvestplaza's Rhetor'/>
+## Game 3 - vs Lance - <DeckListHover name="Garcia, Harvestplaza's Rhetor"/>
 
 I play Lance at least half a dozen times a week casual and while practicing. Just the night before he was practicing some of his decks vs Phisk so we were familiar with the match. We also both knew that Phisk had the upper hand. His deck has some good tax effects and big dino butts which can cause a problem, and did at one point when he had two <Card name='edai'/> out on board with a few cards in archive. It's tough deciding whether to destroy those and forge a key or use the creature removal on something with a more game changing text box, like <Card name='Questor Jarta'/> or <Card name='Primus Unguis'/>. Luckily I didn't have to make that choice and cast <Card name='Unlocked Gateway'/> instead followed up next turn by a Mars battleline invasion and the quick win. 
 <br/>
 <br/>
 [W3 - L0]
-
-<BigCard name='edai' caption='Introducing the all new Eddie 4x4'/>
-
 
 ## Game 4 - vs Lane - <DeckListHover name='The Averting Ratcatcher'/>
 
