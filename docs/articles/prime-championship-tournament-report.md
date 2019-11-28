@@ -122,7 +122,7 @@ I hadn't gone Dis for a while and played out my <Card name='Restriguntus'/> nami
 <br/>
 <br/>
 
-<BigCard name="Restriguntus" caption="Tournament MVP"></BigCard>
+<BigCard name="Restriguntus" caption="Tournament MVP"/>
 
 ## Final Thoughts
 
