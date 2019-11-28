@@ -6,11 +6,10 @@
             <v-card-title class="title">
                 {{properName.toUpperCase()}}
                 <v-spacer></v-spacer>
-                <div>
-                    <v-img v-if="ready" :src="houses[0].image" max-width="40"></v-img>
-                    <v-img v-if="ready" :src="houses[1].image" max-width="40"></v-img>
-                    <v-img v-if="ready" :src="houses[2].image" max-width="40"></v-img>
-                </div>
+
+                <v-img v-if="ready" :src="houses[0].image" max-width="40"></v-img>
+                <v-img v-if="ready" :src="houses[1].image" max-width="40"></v-img>
+                <v-img v-if="ready" :src="houses[2].image" max-width="40"></v-img>
             </v-card-title>
             <v-card-text style="padding:0rem">
                 <v-container style="padding:0rem">
