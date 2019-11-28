@@ -122,3 +122,5 @@ Over the next few weeks I have one more Store Championship which is sealed World
 <br/>
 <br/>
 I have a few blog drafts that need to be completed on some competitive play topics and others, look for those soon! The best place to get in touch with me is on Twitter [@unzinc](https://twitter.com/unzinc).
+
+<Comments/>
