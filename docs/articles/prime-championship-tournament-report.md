@@ -15,7 +15,7 @@ It wasn't easy though. There were many turns I was sitting there mid-game, stari
 
 My first deck of choice was the one that I won store championships with recently. Phisk “Windchill” Zouchyy is an AoA deck that plays a midrange/control style of game. If you ever played Jund in Modern format in Magic the Gathering I would most compare it to that. It has answers to everything and each house can control all aspects of the game. I was undefeated with it at the Store Championships and running at about a 95% win rate up until Worlds Collide release. Enter Worlds Collide and my first encounter with the Dinosaurs gave it a loss. Game two vs WC I barely snuck out a win with a timely <Card name='Miasma'/>. I was beginning to think Phisk was feeling its “Windchill” and gone cold in the new meta. 
 
-<XCards :names="['trubute','sic semper']" caption="Sic Combo Bud"/>
+<XCards :names="['tribute','sic semper']" caption="Sic Combo Bud"/>
 
 I had opened a pretty solid Worlds Collide deck which features Saurians: <DeckListHover name='Cragjilli Kim-Dolan'/>. I went 3-0 on release weekend chainbound with it and was having some success in Competitive play on The Crucible. It has some neat Dino combos in it, including the overly-powered feels-disgusting-to-pull-off <Card name='Tribute'/> into <Card name='Sic Semper Tyrannosaur'/> combo. It also has decent board control with <Card name='Harbinger of Doom'/> and <Card name='Hysteria'/>, key control with two <Card name='The Evil Eye'/>, two <Card name='Hock'/> to control artifacts, and some alright Aember control. The deck looks great and feels great but I was rusty with it and the new cards. I think I beat myself more than a few times playing with it. I would play cards in the wrong sequence, or miss card text, or misplay in general. I didn't have the experience with this deck as I had with Phisk. I couldn't risk losing to myself through inexperience. 
 <br/>
@@ -44,9 +44,7 @@ Those who follow me on Twitter [link to my twitter] will know how much I've been
 <br/>
 [W1 - L0]
 
-## Game 2 - vs Shea
-
-<DeckList name='khan fordatese'/>
+## Game 2 - vs Shea - <DeckList name='khan fordatese'/>
 
 Shea and I chat a bunch about Keyforge and sometimes practice together. He is quite familiar with Phisk and knew its strengths and weaknesses. Early on he knew that my Collector Worms must go, which he made quick effort to <Card name='Oublette'/> the first one and <Card name='Collar of Subordination'/> my second. I ended up drawing some of my less flashy cards at the correct times in this match. I played a <Card name='Pandemonium'/> after forging a key to have my battleline capture four or five AEmber and keep Shea off check. I used Collar of Subordination (I had to refrain from Collaring my already Collared wormy boy for the lol play)
 on his <Card name='Tocsin'/> which stayed on board the entirety of the game, and got about 5 cards of value out of it. The big armoured Mars battleline successfully raced and brought me enough Aember to win. 
