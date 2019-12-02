@@ -31,13 +31,13 @@ I arrived at the store early to get some [practice games](https://timeshapers.co
 <XCards :names="['chain gang','subtle chain']" caption="Not so subtle when there's three"/>
 
 
-## Game 1 - vs Kieran - <DeckListHover name='Wastrel of the Thespian Manor'/>
+## Game 1 - vs Keiran - <DeckListHover name='Wastrel of the Thespian Manor'/>
 
 The week before the primes I played in a sealed and knew that Kieran had opened a triple <Card name='Chain Gang'/>, triple <Card name='Subtle Chain'/> deck with good control throughout.  I figured he might be playing the deck on Primes and I was most worried about having to play against it if I faced him. The Chain Gang combos can get out of hand essentially locking your opponent out of any Aember as the player nears the end of their deck and can reliably shuffle and draw the subtle chains. I knew I had to wipe out the Chain Gangs any way possible on first sight of them! 
 
 <BigCard name="collector worm" caption="Put 'em in the dirt!"/>
 
-Those who follow me on Twitter [link to my twitter] will know how much I've been raving about <Card name='Collector Worm'/> over the last few weeks. It completely removes many of the new powerful creatures and it is difficult for the opponent to remove. Early in the game Kieran played out a copy of Chain Gang. Lucky for my I had Collector Worm and <Card name='Mars First'/> in hand alongside a couple more Mars creatures. I dropped my Mars hand and good ol' wormy boy ate his Chain Gang sending put it into the dirt. I drew into more Mars, including my second copy of Collector Worm, and continued to eat up his battle line with my wormy boys all while stealing Aember with <Card name='Mindwarper'/> and reaping with my other Mars battleline. I was in good control and remained that way for the rest of the game. Near the end, Kieran played out a turn of 4 or 5 Brobnar creatures. I had <Card name='restringuntus'/> in hand to keep him off Brobnar and an <Card name='Exhume'/> to recur it from the graveyard to get win number one! 
+Those who follow me on [Twitter](https://twitter.com/unzinc) will know how much I've been raving about <Card name='Collector Worm'/> over the last few weeks. It completely removes many of the new powerful creatures and it is difficult for the opponent to remove. Early in the game Kieran played out a copy of Chain Gang. Lucky for my I had Collector Worm and <Card name='Mars First'/> in hand alongside a couple more Mars creatures. I dropped my Mars hand and good ol' wormy boy ate his Chain Gang sending put it into the dirt. I drew into more Mars, including my second copy of Collector Worm, and continued to eat up his battle line with my wormy boys all while stealing Aember with <Card name='Mindwarper'/> and reaping with my other Mars battleline. I was in good control and remained that way for the rest of the game. Near the end, Kieran played out a turn of 4 or 5 Brobnar creatures. I had <Card name='restringuntus'/> in hand to keep him off Brobnar and an <Card name='Exhume'/> to recur it from the graveyard to get win number one! 
 <br/>
 <br/>
 [W1 - L0]
