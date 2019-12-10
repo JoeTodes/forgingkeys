@@ -1,6 +1,6 @@
 ---
 title: Red Key First
-date: 2018-12-9
+date: 2019-12-9
 excerpt: It’s important to try something new. As someone who has played Magic the Gathering for a long time (seven years) I admit I was skeptical about KeyForge. It seemed too simple...
 ---
 
@@ -12,11 +12,11 @@ It’s important to try something new. As someone who has played Magic: the Gath
 
 But KeyForge is a great game for a lot of reasons. The cost of entry is low and the impact of a single purchase is really high. The min-maxer in me still does not want to like KeyForge (a bit, if I’m being honest), however, after playing with this unique-deck card game I’ve come to understand why this is a great game.
 
-## What is KeyForge not?
+### What is KeyForge not?
 
 Deck builders, brewers, and control freaks beware; KeyForge is not about purchasing the perfect combination of cards (though a secondary market for “chase decks” is emerging) since your deck is not to be altered and cannot be modified in anyway for tournament play. You can’t just pack your deck with the best cards in the format and steamroll your way to victory. But competitive decision are still present. I have seen some bad beats and some quick losses because of powerful cards and game play mistakes (burn the witch). Limited play, similar to drafting, is also lacking in KeyForge, however sealed events are popular as a way to discover new decks and card combinations.
 
-## What is KeyForge?
+### What is KeyForge?
 You and your opponent are Archons: beings that command creatures, artifacts, and powerful actions that all help you amass aember. Aember is the material that allows you to forge three keys, ultimately opening a vault and achieving victory. KeyForge is all about gameplay and maximizing your moments in-game. KeyForge is filled with discovery as you realize a new interaction in the combination of 36 cards you hadn’t considered before. 
 <br/>
 <br/>
