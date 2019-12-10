@@ -23,6 +23,7 @@ module.exports = {
     themeConfig: {
         displayAllHeaders: false,
         sidebar: [
+            '/articles/red-key-first',
             '/articles/prime-championship-tournament-report',
             '/articles/worlds-collide-initial-impressions',
             '/articles/predictions-for-worlds-collide',
