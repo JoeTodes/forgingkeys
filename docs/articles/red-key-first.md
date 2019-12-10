@@ -33,7 +33,8 @@ In my first casual event I forgot the most important thing about KeyForge.  I sp
 <DeckList name="Lucius “Lilith” Brassten"/>
 
 The rare cards in this deck allow for some swanky plays, and this also showcase the presences of some special cards. The Dis Plants, <Card name="The Quiet Anvil"/>, and <Card name="Spartasaur"/> give this deck it’s most unique attributes. This deck wants to select Dis regularly for value and disruption, fight, and keep the board clear of opposing creatures while forcing discard. There’s some effective aember control too. My success with this deck has centered around a smart use of The Quiet Anvil (this can benefit your opponent too, and I’ve learned this the hard way) and Spartasaur to fight for profit. <Card name="Exile"/> is a tricky card to play, and I admit has lingered in too many games.
-
+<br/>
+<br/>
 How would you play this deck? What would you look for in an opening hand? As I learn more about ***Lucius “Lilith” Brassten*** I’ll continue to provide updates (good or bad).
 
 <Comments/>
