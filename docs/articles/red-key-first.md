@@ -25,7 +25,7 @@ Your deck of cards is one-of-a-kind in both the combination of cards and name it
 There are many introductions you could read about [how KeyForge works](https://forgingkeys.com/articles/keyforge-for-magic-players.html), just know if you’ve played any card games, such as Magic: the Gathering, Netrunner, or Pokémon in the past you’ll find a familiar home in KeyForge gameplay.
 <br/>
 <br/>
-The most important thing in KeyForge is to remember: KeyForge is a “sprint” towards forging three key - one at a time over 3 turns, normally for the cost of six aember each. 
+The most important thing in KeyForge is to remember: KeyForge is a “sprint” towards forging three keys - one at a time over three turns, normally for the cost of six aember each. 
 <br/>
 <br/>
 In my first casual event I forgot the most important thing about KeyForge.  I spent my time focusing on creature control, try to wipe the board, and optimizing my decisions for things other than aember generation. There are some decks that aim for a kind of control strategy, but looking at “archetypes” in KeyForge is another topic all in itself. Take a look at this list I discovered right before my first event and you’ll see what I’m talking about:
