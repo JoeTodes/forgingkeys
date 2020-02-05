@@ -1,5 +1,5 @@
 ---
-title: Worlds Collide Inital Impressions
+title: Worlds Collide Initial Impressions
 date: 2019-11-21
 excerpt: Worlds Collide has been out (officially) for just over a week and boy have I been jamming games! Very coincidentally (cunning emoji), I’ve just gone on parental leave on Nov 7, essentially Worlds Collide release day, and am off work for the next 3 months and on daddy duty (Oh Canada!). My kid is still quite small and loves to take multi-hour naps during the day which is a great time for dad to jump on the crucible for some games of Keyforge! It’s also great as I have a Primes event coming up November 23 in Calgary so getting in as many games as possible in this new meta is going to help a ton! And, my goodness, has the meta changed...
 ---
