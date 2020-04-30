@@ -23,6 +23,7 @@ module.exports = {
     themeConfig: {
         displayAllHeaders: false,
         sidebar: [
+            '/articles/quick-adaptive-is-the-best-format',
             '/articles/saury-not-saury',
             '/articles/red-key-first',
             '/articles/prime-championship-tournament-report',
