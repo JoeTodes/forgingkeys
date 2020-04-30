@@ -33,13 +33,11 @@ Lastly, my favourite part, Quick Adaptive packs all of this fun and skill reward
 
 
 There’s all sorts of strategies to Quick Adaptive. Some players bring their worst deck and always bid on their opponent’s deck. Some players bring their best and most familiar deck and always pick their own. I like bringing a deck that requires a lot of reps to figure out. I brought my Ganger Chieftain combo deck because I love playing it and I feel that many players may not have great experience with the combo to play it to all its effectiveness. 
-
 <br/>
 <br/>
-
 On a final note, watching someone else pilot my deck allowed me to discover new lines of play that I didn’t think of already which helps me play the deck better in the future! Although I went W1-L3 in the tournament I played in, ‘She Who Seemingly Pleads with the Dark’ went W3-L1 with the help of other players playing it. I’m so proud of her! 
 
-<Decklist name="She Who Seemingly Pleads with the Dark"/>
+<DeckList name="She Who Seemingly Pleads with the Dark"/>
 
 
 <Comments/>
